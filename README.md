@@ -1,5 +1,6 @@
-# Finn's game development portfolio
+# Finn's media portfolio
 First year game development student
+
 ## Term 1 Projects
 
 
