@@ -14,6 +14,9 @@ First year game development student
 #### Project Repository
 [Production Team Repo.](https://github.com/rabiescats/Production-Team-1)
 
+#### Storyboard
+![Woodsmen](https://github.com/user-attachments/assets/b5115b62-1a05-415a-bf56-fc2b688ba75d)
+
 #### Mockup for landscape (Woodsman)
 ![Screenshot 2025-03-26 at 7 53 18 AM](https://github.com/user-attachments/assets/a36b4da1-a717-46bb-b402-62408f90878b)
 
