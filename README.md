@@ -25,7 +25,10 @@ First year game development student
 
 ## Certifications
 
-[gamedevcert.pdf](https://github.com/user-attachments/files/20038692/gamedevcert.pdf)
-
-[graphicscert.pdf](https://github.com/user-attachments/files/20038695/graphicscert.pdf)
+![Screenshot 2025-05-07 at 7 40 57 AM](https://github.com/user-attachments/assets/849a0719-0e7a-4d1c-a872-0311d088afc6)
+![Screenshot 2025-05-07 at 7 40 29 AM](https://github.com/user-attachments/assets/06530e7e-13cc-49eb-89b6-4e94c7b5a4f9)
+![Screenshot 2025-05-07 at 7 39 55 AM](https://github.com/user-attachments/assets/4556201c-2b60-416e-a5cd-d0a0508e73fd)
+![Screenshot 2025-05-07 at 7 39 07 AM](https://github.com/user-attachments/assets/98ce09d8-6341-4cd1-a567-2e01a456bfc2)
+![Screenshot 2025-05-07 at 7 38 55 AM](https://github.com/user-attachments/assets/95259d55-c557-409d-b805-882535f030e0)
+![Screenshot 2025-05-07 at 7 38 28 AM](https://github.com/user-attachments/assets/ac531db2-506b-47b7-84d6-838552a3e2b7)
 
