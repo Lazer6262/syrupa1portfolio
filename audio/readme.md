@@ -1,1 +1,1 @@
-#### New Project 2 was created on my chromebook using bandlab and a thrift store guitar; Instrumental was created using bandlab and my ibanez talman and midi presets within bandlab
+#### New Project 2 was created on my chromebook using bandlab and a thrift store guitar; Instrumental was created using bandlab and my ibanez talman and midi presets within bandlab; sample was created using a guitar loop made from my thrift store acoustic on bandlab on my chromebook; 
